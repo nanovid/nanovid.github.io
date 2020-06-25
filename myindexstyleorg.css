@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&display=swap');
+
+*{
+       box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       background-color: #24252a;
+}
+
+.navbar {
+       /* color: white; */
+       font-family: "Montserrat", sans-serif;
+       font-weight: 500;
+       font-size: 16px;
+       color: #edf0f1;
+       text-decoration: yellowgreen;      
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       padding: 30px 150px 0px 165px;
+}
+
+#logo {
+       cursor: pointer;
+       color: #edf0f1;      
+       font-size: "Cinzel";
+       font-size: 20px;
+}
+
+.nav_options {
+       list-style: none;
+       padding-left: 520px;
+}
+
+.nav_options li {
+       display: inline;
+       padding: 0px 20px;
+}
+
+.nav_options li a {
+       transition: all 0.3s ease 0s;
+       color: #edf0f1
+}
+
+.nav_options li a:hover {
+       color: green;
+}
+
+.navbar {
+       position: relative;
+       /* background-color: #f1f1f1; */
+}
+
+#container {
+       position: absolute;
+       /* height: 1000px;
+       width: 1500px; */
+       white-space: nowrap;
+       /* overflow: hidden;} */
+}
+
+#coverpicture{
+       width: 100%;
+       height: 100%;
+}
+
+
+/* button{
+       padding: 20px;
+       border: black;
+       background: darkgreen;
+       font-size: 30px;
+       color: whitesmoke;
+       position: absolute;
+       top: 50%;
+}
+
+.next{
+       border-radius: 10px 0px 0px 10px;
+       margin-left: 950px;
+}
+
+.previous {
+       border-radius: 0px 10px 10px 0px;
+} */
+
+img{
+       width: 100%;
+       height: 500px;
+}
+#slider{
+        width: 1000px;
+        height: 500px;
+        margin: 20px auto;
+        position: relative;
+        white-space: nowrap;
+        /* border: 10px solid white; */
+        /* box-shadow: 0px 0px 5px 2px #ccc; */
+ }
+button{
+        padding: 19.5px;
+        border: none;
+        background: darkgreen;
+        font-size: 30px;
+        color: wheat;
+        position: absolute; 
+        top:45%;
+        cursor: pointer;
+ }
+
+.next{
+ border-radius: 10px 0px 0px 10px;
+ margin-left: 950px;
+}
+.previous{
+ border-radius: 0px 10px 10px 0px;
+}
+
+.intro {
+       /* color: white; */
+       font-family: "Montserrat", sans-serif;
+       font-weight: 500;
+       font-size: 13px;
+       color: #edf0f1;
+       text-decoration: yellowgreen;      
+       /* white-space: nowrap; */
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       padding: 10px 200px 0px 200px;}
