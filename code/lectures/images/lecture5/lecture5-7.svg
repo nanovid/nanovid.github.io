@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350.9975"
+   height="256.02112"
+   id="svg4003"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="lecture5-7.svg">
+  <defs
+     id="defs4005">
+    <clipPath
+       id="clipPath4048"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4050"
+         d="m 0,3.39844 5400,0 0,6476.59996 -5400,0 L 0,3.39844 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4423"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4425"
+         d="m 1296,944.531 2807.98,0 0,2048.169 -2807.98,0 0,-2048.169 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath4111"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4113"
+         d="m 1296,3987.52 2807.98,0 0,1942.46 -2807.98,0 0,-1942.46 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.0505296"
+     inkscape:cx="175.49875"
+     inkscape:cy="128.01056"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4105"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="928"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4008">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(687.05279,-467.14156)">
+    <g
+       transform="matrix(1.25,0,0,-1.25,39.518638,921.22906)"
+       inkscape:label="Practical Programming - NE11 Course Textbook"
+       id="g4101">
+      <g
+         id="g4103">
+        <g
+           transform="scale(0.1,0.1)"
+           id="g4105">
+          <g
+             id="g4419"
+             transform="translate(-7108.5714,640)">
+            <g
+               clip-path="url(#clipPath4423)"
+               id="g4421">
+              <path
+                 id="path4427"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 1296,944.531 2807.98,0 0,2048.17 -2807.98,0 0,-2048.17 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4429">
+                <text
+                   id="text4431"
+                   transform="matrix(1,0,0,-1,176.767,284.404)">
+                  <tspan
+                     id="tspan4433"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 4.3785787 7.8999968 12.71306 20.153868 24.987396"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Bold">Frames</tspan>
+                </text>
+              </g>
+              <path
+                 id="path4435"
+                 style="fill:#e6e6e4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 1444.66,2170.13 944.801,0 0,475.703 -944.801,0 0,-475.703 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4437"
+                 style="fill:none;stroke:#231f20;stroke-width:19.82099915;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 1444.66,2170.13 944.801,0 0,475.703 -944.801,0 0,-475.703 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4439">
+                <text
+                   id="text4441"
+                   transform="matrix(1,0,0,-1,150.743,254.343)">
+                  <tspan
+                     id="tspan4443"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 4.2524424 9.3375254 14.171066 16.612171"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Bold">shell</tspan>
+                </text>
+                <text
+                   id="text4445"
+                   transform="matrix(1,0,0,-1,206.0117,240.468)">
+                  <tspan
+                     id="tspan4447"
+                     y="0"
+                     x="0"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">f</tspan>
+                  <tspan
+                     id="tspan4449"
+                     y="13.8746"
+                     x="-1.7125"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">x</tspan>
+                </text>
+              </g>
+              <path
+                 id="path4451"
+                 style="fill:#e6e6e4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 2125.18,2368.34 204.816,0 0,125.531 -204.816,0 0,-125.531 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4453"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 2125.18,2368.34 204.816,0 0,125.531 -204.816,0 0,-125.531 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4455">
+                <text
+                   id="text4457"
+                   transform="matrix(1,0,0,-1,216.904,240.798)">
+                  <tspan
+                     id="tspan4459"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 1.9821 6.5069213"
+                     style="font-size:7.92840004px;font-style:oblique;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Oblique">id1</tspan>
+                </text>
+              </g>
+              <path
+                 id="path4461"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 2310.18,2431.11 443.32,0"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4463"
+                 style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 2859.21,2431.11 -105.71,39.64 0,-79.29"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4465"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 2859.21,2431.11 -105.71,39.64 0,-79.29 105.71,39.65 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4467"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 2871.77,2353.47 495.523,0 0,155.266 -495.523,0 0,-155.266 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4469"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 2871.77,2353.47 495.523,0 0,155.266 -495.523,0 0,-155.266 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4471">
+                <text
+                   id="text4473"
+                   transform="matrix(1,0,0,-1,293.454,240.633)">
+                  <tspan
+                     id="tspan4475"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 2.5021517 5.2844343 9.5005608"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">f(x)</tspan>
+                </text>
+                <text
+                   id="text4477"
+                   transform="matrix(1,0,0,-1,290.14814,254.5076)">
+                  <tspan
+                     id="tspan4479"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 1.9821 6.5069213"
+                     style="font-size:7.92840004px;font-style:oblique;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Oblique">id1</tspan>
+                </text>
+                <text
+                   id="text4481"
+                   transform="matrix(1,0,0,-1,301.19224,254.5076)">
+                  <tspan
+                     id="tspan4483"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 2.4005229 4.902699 9.4194212 13.936144 17.86363 20.666019 22.648119 27.006418"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">:function</tspan>
+                </text>
+                <text
+                   id="text4485"
+                   transform="matrix(1,0,0,-1,319.91104,284.4056)">
+                  <tspan
+                     id="tspan4487"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 6.0680094 11.173899 13.615016 18.448557 22.672783 26.080627"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Bold">Objects</tspan>
+                </text>
+              </g>
+              <path
+                 id="path4489"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:26.428, 26.428;stroke-dashoffset:0"
+                 d="m 2630.61,2916.72 0,-1813.62"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4491"
+                 style="fill:#e6e6e4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 2125.18,2224.64 204.816,0 0,125.531 -204.816,0 0,-125.531 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4493"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 2125.18,2224.64 204.816,0 0,125.531 -204.816,0 0,-125.531 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4495">
+                <text
+                   id="text4497"
+                   transform="matrix(1,0,0,-1,216.904,226.428)">
+                  <tspan
+                     id="tspan4499"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 1.9821 6.5069213"
+                     style="font-size:7.92840004px;font-style:oblique;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Oblique">id7</tspan>
+                </text>
+              </g>
+              <path
+                 id="path4501"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="M 2310.18,2287.4 2818.25,1286.19"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4503"
+                 style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 2866.09,1191.93 -12.49,112.2 -70.71,-35.88"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4505"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 2866.09,1191.93 -12.49,112.2 -70.71,-35.88 83.2,-76.32 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4507"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 3473.01,2180.04 495.523,0 0,155.266 -495.523,0 0,-155.266 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4509"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 3473.01,2180.04 495.523,0 0,155.266 -495.523,0 0,-155.266 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4511">
+                <text
+                   id="text4513"
+                   transform="matrix(1,0,0,-1,369.478,223.289)">
+                  <tspan
+                     id="tspan4515"
+                     y="0"
+                     x="0"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">1</tspan>
+                </text>
+                <text
+                   id="text4517"
+                   transform="matrix(1,0,0,-1,350.2753,237.1636)">
+                  <tspan
+                     id="tspan4519"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 1.9821 6.5069213"
+                     style="font-size:7.92840004px;font-style:oblique;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Oblique">id2</tspan>
+                </text>
+                <text
+                   id="text4521"
+                   transform="matrix(1,0,0,-1,361.3194,237.1636)">
+                  <tspan
+                     id="tspan4523"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 2.4005229 4.3826232 8.8993454"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">:int</tspan>
+                </text>
+              </g>
+              <path
+                 id="path4525"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 2871.77,1990.91 495.523,0 0,155.266 -495.523,0 0,-155.266 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4527"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 2871.77,1990.91 495.523,0 0,155.266 -495.523,0 0,-155.266 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4529">
+                <text
+                   id="text4531"
+                   transform="matrix(1,0,0,-1,309.354,204.377)">
+                  <tspan
+                     id="tspan4533"
+                     y="0"
+                     x="0"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">2</tspan>
+                </text>
+                <text
+                   id="text4535"
+                   transform="matrix(1,0,0,-1,290.1513,218.2516)">
+                  <tspan
+                     id="tspan4537"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 1.9821 6.5069213"
+                     style="font-size:7.92840004px;font-style:oblique;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Oblique">id3</tspan>
+                </text>
+                <text
+                   id="text4539"
+                   transform="matrix(1,0,0,-1,301.1954,218.2516)">
+                  <tspan
+                     id="tspan4541"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 2.4005229 4.3826232 8.8993454"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">:int</tspan>
+                </text>
+              </g>
+              <path
+                 id="path4543"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 3473.01,1845.56 495.523,0 0,155.266 -495.523,0 0,-155.266 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4545"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 3473.01,1845.56 495.523,0 0,155.266 -495.523,0 0,-155.266 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4547">
+                <text
+                   id="text4549"
+                   transform="matrix(1,0,0,-1,369.478,189.841)">
+                  <tspan
+                     id="tspan4551"
+                     y="0"
+                     x="0"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">4</tspan>
+                </text>
+                <text
+                   id="text4553"
+                   transform="matrix(1,0,0,-1,350.2753,203.716)">
+                  <tspan
+                     id="tspan4555"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 1.9821 6.5069213"
+                     style="font-size:7.92840004px;font-style:oblique;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Oblique">id4</tspan>
+                </text>
+                <text
+                   id="text4557"
+                   transform="matrix(1,0,0,-1,361.3194,203.716)">
+                  <tspan
+                     id="tspan4559"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 2.4005229 4.3826232 8.8993454"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">:int</tspan>
+                </text>
+              </g>
+              <path
+                 id="path4561"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 3473.01,1511.08 495.523,0 0,155.262 -495.523,0 0,-155.262 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4563"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 3473.01,1511.08 495.523,0 0,155.262 -495.523,0 0,-155.262 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4565">
+                <text
+                   id="text4567"
+                   transform="matrix(1,0,0,-1,369.478,156.394)">
+                  <tspan
+                     id="tspan4569"
+                     y="0"
+                     x="0"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">3</tspan>
+                </text>
+                <text
+                   id="text4571"
+                   transform="matrix(1,0,0,-1,350.2753,170.2686)">
+                  <tspan
+                     id="tspan4573"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 1.9821 6.5069213"
+                     style="font-size:7.92840004px;font-style:oblique;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Oblique">id5</tspan>
+                </text>
+                <text
+                   id="text4575"
+                   transform="matrix(1,0,0,-1,361.3194,170.2686)">
+                  <tspan
+                     id="tspan4577"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 2.4005229 4.3826232 8.8993454"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">:int</tspan>
+                </text>
+              </g>
+              <path
+                 id="path4579"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 3473.01,1205.51 495.523,0 0,155.262 -495.523,0 0,-155.262 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4581"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 3473.01,1205.51 495.523,0 0,155.262 -495.523,0 0,-155.262 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4583">
+                <text
+                   id="text4585"
+                   transform="matrix(1,0,0,-1,369.478,125.836)">
+                  <tspan
+                     id="tspan4587"
+                     y="0"
+                     x="0"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">6</tspan>
+                </text>
+                <text
+                   id="text4589"
+                   transform="matrix(1,0,0,-1,350.2753,139.7106)">
+                  <tspan
+                     id="tspan4591"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 1.9821 6.5069213"
+                     style="font-size:7.92840004px;font-style:oblique;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Oblique">id6</tspan>
+                </text>
+                <text
+                   id="text4593"
+                   transform="matrix(1,0,0,-1,361.3194,139.7106)">
+                  <tspan
+                     id="tspan4595"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 2.4005229 4.3826232 8.8993454"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">:int</tspan>
+                </text>
+              </g>
+              <path
+                 id="path4597"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 2871.77,1103.1 495.523,0 0,155.266 -495.523,0 0,-155.266 z"
+                 inkscape:connector-curvature="0" />
+              <path
+                 id="path4599"
+                 style="fill:none;stroke:#231f20;stroke-width:6.60699987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                 d="m 2871.77,1103.1 495.523,0 0,155.266 -495.523,0 0,-155.266 z"
+                 inkscape:connector-curvature="0" />
+              <g
+                 transform="scale(10,10)"
+                 id="g4601">
+                <text
+                   id="text4603"
+                   transform="matrix(1,0,0,-1,307.086,115.595)">
+                  <tspan
+                     id="tspan4605"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 4.5329208"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">10</tspan>
+                </text>
+                <text
+                   id="text4607"
+                   transform="matrix(1,0,0,-1,290.1512,129.4696)">
+                  <tspan
+                     id="tspan4609"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 1.9821 6.5069213"
+                     style="font-size:7.92840004px;font-style:oblique;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed-Oblique">id7</tspan>
+                </text>
+                <text
+                   id="text4611"
+                   transform="matrix(1,0,0,-1,301.1953,129.4696)">
+                  <tspan
+                     id="tspan4613"
+                     sodipodi:role="line"
+                     y="0"
+                     x="0 2.4005229 4.3826232 8.8993454"
+                     style="font-size:7.92840004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVuSansCondensed">:int</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
