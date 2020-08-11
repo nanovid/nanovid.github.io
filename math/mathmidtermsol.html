@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<link rel = "stylesheet" type = "text/css" href = "myindexstyleorg.css">
+<link rel = "stylesheet" type = "text/css" href = "tablestyle3.css">
+<html>
+<div id = "container">
+<head>
+       <div class = "title">
+              <title>TheNanoScribe</title>
+       </div>
+</head>
+<body class = "homepage">   
+       <header class = "navbar">
+              <a id = "logo" href = "../index.html"><strong>TheNanoScribe</strong></a>
+              <nav>
+                     <ul class = "nav_options"> 
+                            <li><a href = "../first_year.html">First Year</a></li>
+                            <li><a href = "../second_year.html">Second Year</a></li>
+                            <li><a href = "../third_year.html">Third Year</a></li>
+                            <li><a href = "../fourth_year.html">Fourth Year</a></li>
+                            <!-- <li><a href = #>Coop</a></li>
+                            <li><a href = #>2B</a></li>
+                            <li><a href = #>Coop</a></li>
+                            <li><a href = #>Coop</a></li>
+                            <li><a href = #>3A</a></li>
+                            <li><a href = #>3B</a></li>
+                            <li><a href = #>Coop</a></li>
+                            <li><a href = #>Coop</a></li>
+                            <li><a href = #>4A</a></li>
+                            <li><a href = #>4B</a></li> -->
+                     </ul>
+              </nav>
+       </header>
+
+</body>
+</div>
+
+<br><br><br><br><br>
+
+<h1><span class="blue">&lt;</span>MATH117 Midterm Solutions<span class="blue">&gt;</span> <span class="yellow"></pan></h1>
+       <br><br>
+       <table class="containertable">
+              <thead>
+                     <tr>
+                            <th><h1>Midterm Solutions</h1></th>
+                            <th><h1>Content Name</h1></th>
+
+                            
+                     </tr>
+              </thead>
+              <tbody>
+                     <tr>
+                            <td>Midterm Solution</td>
+                            <td onclick = "location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EeuWSaQ_e8RLhu58kymvjxABOJzKVvohZiG9xm3C967l7w?e=6iVYFJ'">Midterm Fall 2011 Solution</td>
+                            
+                            
+                     </tr>
+                     <tr>
+                            <td>Midterm Solution</td>
+                            <td onclick = "location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EbLpSUA0D2dJn80sWKeu2REBPoG4t9e_TgF8n7Ns8bLlJQ?e=tA6KgA'">Midterm Fall 2014 Soltion</td>
+                            
+                            
+                     </tr>
+                     <tr>
+                            <td>Midterm Solution</td>
+                            <td onclick = "location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EQERaEfjJdZNtBUu5Z76KGwBBeCEKsQ1j_cm7ENk2Gicdw?e=7TOogA'">Midterm Fall 2016 Solution</td>
+                            
+                            
+                     </tr>
+           <tr>
+                            <td>Midterm Solution</td>
+                            <td onclick = "location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EZ7bXq--BXFIkft0lR-DQ3wB7U_ZDFCUdxT015-fRBfEKg?e=K5d2zI'">Midterm Fall 2017 Solution</td>
+                            
+                            
+                     </tr>
+           <tr>
+                            <td>Midterm Solution</td>
+                            <td onclick = "location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EU3c8NdIZOxMvC42Zdex2LwByu1eLi0dfLxGWOxwhKyzaA?e=by1HLp'">Midterm Fall 2018 Solution</td>
+                            
+                            
+                     </tr>
+           <tr>
+                            <td>Midterm Solution</td>
+                            <td onclick = "location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EdYgmw5tvzxAgBY_7eaxwp8BTp15-_ryLx-au8F7-Y0McQ?e=uQqzEs'">Midterm Fall 2019 Solution</td>    
+                     </tr>
+              </tbody>
+       </table>
+
+       <script>
+
+              // document.addEventListener("DOMContentLoaded", () => {
+              //        const rows = document.querySelectorAll("tr[data-href]");
+                     
+              //        rows.forEach(row => {
+              //               row.addEventListener("click", ()=> {
+              //                      window.location.href = row.dataset.href; 
+              //               });
+
+              //        });
+
+              // });
+
+              $(document).ready(function () {
+                     $(document.body).on("click", "tr[data-href]", function() {
+                            window.location.href = this.dataset.href;
+                     });
+              });
+
+
+       </script>
+
+</html>

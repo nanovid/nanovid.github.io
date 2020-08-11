@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<link rel = "stylesheet" type = "text/css" href = "myindexstyleorg.css">
+<link rel = "stylesheet" type = "text/css" href = "tablestyle3.css">
+<html>
+<div id = "container">
+<head>
+       <div class = "title">
+              <title>TheNanoScribe</title>
+       </div>
+</head>
+<body class = "homepage">   
+       <header class = "navbar">
+              <a id = "logo" href = "../index.html"><strong>TheNanoScribe</strong></a>
+              <nav>
+                     <ul class = "nav_options"> 
+                            <li><a href = "../first_year.html">First Year</a></li>
+                            <li><a href = "../second_year.html">Second Year</a></li>
+                            <li><a href = "../third_year.html">Third Year</a></li>
+                            <li><a href = "../fourth_year.html">Fourth Year</a></li>
+                     </ul>
+              </nav>
+       </header>
+</body>
+</div>
+
+<br><br><br><br><br>
+
+<h1><span class="blue">&lt;</span>MATH117 Quiz Solutions<span class="blue">&gt;</span> <span class="yellow"></pan></h1>
+       <br><br>
+       <table class="containertable">
+              <thead>
+                     <tr>
+                            <th><h1>Quiz Solutions</h1></th>
+                            <th><h1>Content Name</h1></th>
+
+                     </tr>
+              </thead>
+              <tbody>
+                     <tr>
+                            <td>Quiz Solution</td>
+                            <td onclick="location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EVdB7HKNjRBGgzOsAwqobZMBp1twbHJwhMhW1K8sFldVoQ?e=drhceN'">Quiz Solution #1</td>
+                                   
+                     </tr>
+                     <tr>
+                            <td>Quiz Solution</td>
+                            <td onclick="location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/Eef509bHqvBNjz1zoQLC6cABt4GSshFng--iYyijyxX_sw?e=9Q637E'">Quiz Solution #2</td>
+                                   
+                     </tr>
+                     <tr>
+                            <td>Quiz Solution</td>
+                            <td onclick="location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EVlovX5VtAhCs-TYz1qoUHQBu-U7uuts28Ieiaexzshkow?e=uowb5n'">Quiz Solution #3</td>                            
+      
+                     </tr>
+           <tr>
+                            <td>Quiz Solution</td>
+                            <td onclick="location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EVGD8VtUC1lCjQWutILe648Bam7RedOFZj-1i5rJzxGW6Q?e=noEBfg'">Quiz Solution #4</td>
+                                                        
+                     </tr>
+           <tr>
+                            <td>Quiz Solution</td>
+                            <td onclick="location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EX_NSFoii9hAlZKD0Nn3lHUBl8EBAiiFQvzo1Na1ixfYpA?e=0lAAwk'">Quiz Solution #5</td>
+                                                       
+                     </tr>
+           <tr>
+                            <td>Quiz Solution</td>
+                            <td onclick="location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EW1mUbdHvZZEs2ggv2p2uj0BlUQ8iHIaPdg7kP9zLNIvEg?e=bEhviq'">Quiz Solution #6</td>    
+                     </tr>
+          <tr>
+                            <td>Quiz Solution</td>
+                            <td onclick="location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EYkbIKKGQzJEjyzJ9bWaJiABRcJG-w_8tr16stD2ZgNyaw?e=XXG20b'">Quiz Solution #7</td>    
+                     </tr>
+
+                     <tr>
+                            <td>Quiz Solution</td>
+                            <td onclick="location.href = 'https://uofwaterloo-my.sharepoint.com/:b:/g/personal/sshakim_uwaterloo_ca/EdZQk8DR94xNk0ZQxC5GAjQBY1WZi6IGnxdGu0r2-xIrkw?e=iSOWQU'">Quiz Solution #8</td>    
+                     </tr>
+
+                     
+              </tbody>
+       </table>
+
+       <script>
+
+              // document.addEventListener("DOMContentLoaded", () => {
+              //        const rows = document.querySelectorAll("tr[data-href]");
+                     
+              //        rows.forEach(row => {
+              //               row.addEventListener("click", ()=> {
+              //                      window.location.href = row.dataset.href; 
+              //               });
+
+              //        });
+
+              // });
+
+              $(document).ready(function () {
+                     $(document.body).on("click", "tr[data-href]", function() {
+                            window.location.href = this.dataset.href;
+                     });
+              });
+
+
+       </script>
+
+</html>
